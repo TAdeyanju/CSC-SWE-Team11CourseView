@@ -1,6 +1,6 @@
 # CourseView
 ## Team name
-### Taoffek Adnyanju
+### Taoffek Adeyanju
 ### Will Huynh
 ### Aaron Rollings 
 ### Kush Darji
